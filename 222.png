@@ -572,37 +572,27 @@
 
 央视,#genre#
 
-CCTV1 综合,http://host.gaoxincloud.cn:4000/udp/239.112.205.59:5140
-CCTV2 财经,http://host.gaoxincloud.cn:4000/udp/239.112.205.78:5140
-CCTV3 综艺,http://host.gaoxincloud.cn:4000/udp/239.112.205.221:5140
-CCTV4 中文国际,http://host.gaoxincloud.cn:4000/udp/239.112.205.202:5140
-CCTV5 体育,http://host.gaoxincloud.cn:4000/udp/239.112.205.222:5140
-CCTV5+体育赛事,http://host.gaoxincloud.cn:4000/udp/239.111.205.13:5140
-CCTV6 电影,http://host.gaoxincloud.cn:4000/udp/239.112.205.223:5140
-CCTV7 国防军事,http://host.gaoxincloud.cn:4000/udp/239.112.205.83:5140
-CCTV8 电视剧,http://host.gaoxincloud.cn:4000/udp/239.112.205.224:5140
-CCTV9 记录,http://host.gaoxincloud.cn:4000/udp/239.112.205.85:5140
-CCTV10 科教,http://host.gaoxincloud.cn:4000/udp/239.112.205.86:5140
-CCTV11 戏曲,http://host.gaoxincloud.cn:4000/udp/239.112.205.213:5140
-CCTV12 社会与法,http://host.gaoxincloud.cn:4000/udp/239.112.205.88:5140
-CCTV13 新闻,http://host.gaoxincloud.cn:4000/udp/239.111.205.53:5140
-CCTV14 少儿,http://host.gaoxincloud.cn:4000/udp/239.112.205.91:5140
-CCTV15 音乐,http://host.gaoxincloud.cn:4000/udp/239.112.205.214:5140
-CCTV16 奥林匹克,http://host.gaoxincloud.cn:4000/udp/239.111.205.133:5140
-CCTV17 农业农村,http://host.gaoxincloud.cn:4000/udp/239.112.205.211:5140
+CCTV1综合,http://1.zqit.cn:4000/udp/239.77.0.129:5146
+CCTV2财经,http://1.zqit.cn:4000/udp/239.77.0.137:5146
+CCTV3综艺,http://1.zqit.cn:4000/udp/239.77.0.169:5146
+CCTV4中文国际,http://1.zqit.cn:4000/udp/239.77.1.166:5146
+CCTV5+体育赛事,http://1.zqit.cn:4000/udp/239.77.0.87:5146
+CCTV5体育,http://1.zqit.cn:4000/udp/239.77.0.170:5146
+CCTV6电影,http://1.zqit.cn:4000/udp/239.77.0.171:5146
+CCTV7国防军事,http://1.zqit.cn:4000/udp/239.77.0.138:5146
+CCTV8电视剧,http://1.zqit.cn:4000/udp/239.77.0.172:5146
+CCTV9纪录,http://1.zqit.cn:4000/udp/239.77.0.135:5146
+CCTV10科教,http://1.zqit.cn:4000/udp/239.77.1.113:5146
+CCTV11戏曲,http://1.zqit.cn:4000/udp/239.77.1.238:5146
+CCTV12社会与法,http://1.zqit.cn:4000/udp/239.77.1.109:5146
+CCTV13新闻,http://1.zqit.cn:4000/udp/239.253.43.196:5146
+CCTV14少儿,http://1.zqit.cn:4000/udp/239.77.0.133:5146
+CCTV15音乐,http://1.zqit.cn:4000/udp/239.77.1.239:5146
+CCTV16奥林匹克,http://1.zqit.cn:4000/udp/239.77.1.76:5146
+CCTV16奥林匹克,http://1.zqit.cn:4000/udp/239.77.1.98:5146
+CCTV17农业农村,http://1.zqit.cn:4000/udp/239.77.0.198:5146
 
-CCTV第一剧场,http://host.gaoxincloud.cn:4000/udp/239.111.205.65:5140
-CCTV风云剧场,http://host.gaoxincloud.cn:4000/udp/239.111.205.66:5140
-CCTV怀旧剧场,http://host.gaoxincloud.cn:4000/udp/239.111.205.67:5140
-CCTV风云足球,http://host.gaoxincloud.cn:4000/udp/239.111.205.68:5140
-CCTV风云音乐,http://host.gaoxincloud.cn:4000/udp/239.111.205.69:5140
-CCTV央视台球,http://host.gaoxincloud.cn:4000/udp/239.111.205.70:5140
-CCTV世界地理,http://host.gaoxincloud.cn:4000/udp/239.111.205.71:5140
-CCTV女性时尚,http://host.gaoxincloud.cn:4000/udp/239.111.205.72:5140
-CCTV央视网球,http://host.gaoxincloud.cn:4000/udp/239.111.205.73:5140
-CCTV兵器科技,http://host.gaoxincloud.cn:4000/udp/239.111.205.74:5140
-CCTV央视精品,http://host.gaoxincloud.cn:4000/udp/239.111.205.75:5140
-CCTV电视指南,http://host.gaoxincloud.cn:4000/udp/239.111.205.76:5140
+
 
 CCTV电视指南,http://waj88.3322.org:2000/udp/238.1.79.53:4560
 CCTV央视精品,http://waj88.3322.org:2000/udp/238.1.79.54:4568
@@ -616,6 +606,18 @@ CCTV怀旧剧场,http://waj88.3322.org:2000/udp/238.1.79.61:4624
 CCTV风云剧场,http://waj88.3322.org:2000/udp/238.1.79.62:4632
 CCTV第一剧场,http://waj88.3322.org:2000/udp/238.1.79.63:4640
 CCTV风云音乐,http://waj88.3322.org:2000/udp/238.1.79.64:4648
+CCTV第一剧场,http://host.gaoxincloud.cn:4000/udp/239.111.205.65:5140
+CCTV风云剧场,http://host.gaoxincloud.cn:4000/udp/239.111.205.66:5140
+CCTV怀旧剧场,http://host.gaoxincloud.cn:4000/udp/239.111.205.67:5140
+CCTV风云足球,http://host.gaoxincloud.cn:4000/udp/239.111.205.68:5140
+CCTV风云音乐,http://host.gaoxincloud.cn:4000/udp/239.111.205.69:5140
+CCTV央视台球,http://host.gaoxincloud.cn:4000/udp/239.111.205.70:5140
+CCTV世界地理,http://host.gaoxincloud.cn:4000/udp/239.111.205.71:5140
+CCTV女性时尚,http://host.gaoxincloud.cn:4000/udp/239.111.205.72:5140
+CCTV央视网球,http://host.gaoxincloud.cn:4000/udp/239.111.205.73:5140
+CCTV兵器科技,http://host.gaoxincloud.cn:4000/udp/239.111.205.74:5140
+CCTV央视精品,http://host.gaoxincloud.cn:4000/udp/239.111.205.75:5140
+CCTV电视指南,http://host.gaoxincloud.cn:4000/udp/239.111.205.76:5140
 
 EZTV华文1,http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 EZTV华文2,http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
@@ -643,45 +645,43 @@ CHC动作电影,http://host.gaoxincloud.cn:4000/udp/239.112.205.207:5140
 4K-欢笑剧场,http://host.gaoxincloud.cn:4000/udp/239.111.205.1:5140
 4K-电影测试,http://host.gaoxincloud.cn:4000/udp/239.112.205.186:5140
 4K-CCTV16,http://host.gaoxincloud.cn:4000/udp/239.111.205.134:5140
-CCTV1,http://120.196.232.56:8088/000000001001PLTV/651/224/3221227558/1.m3u8?HlsProfileId=
-CCTV1,http://120.196.232.30:8088/000000001001PLTV/651/224/3221227563/1.m3u8?HlsProfileId=
-CCTV1,http://120.196.232.38:8088/000000001001PLTV/651/224/3221227583/1.m3u8?HlsProfileId=
-CCTV1,http://120.196.232.57:8088/000000001001PLTV/651/224/3221227607/1.m3u8?HlsProfileId=
-CCTV1,http://120.196.232.36:8088/000000001001PLTV/651/224/3221227709/1.m3u8?HlsProfileId=
-CCTV2,http://120.196.232.18:8088/000000001001PLTV/651/224/3221227600/1.m3u8?HlsProfileId=
-CCTV2,http://120.196.232.53:8088/000000001001PLTV/651/224/3221227600/1.m3u8?HlsProfileId=
-CCTV3,http://120.196.232.48:8088/000000001001PLTV/651/224/3221227602/1.m3u8?HlsProfileId=
-CCTV3,http://120.196.232.50:8088/000000001001PLTV/651/224/3221227602/1.m3u8?HlsProfileId=
-CCTV4,http://120.196.232.28:8088/000000001001PLTV/651/224/3221227637/1.m3u8?HlsProfileId=
-CCTV4,http://120.196.232.32:8088/000000001001PLTV/651/224/3221227637/1.m3u8?HlsProfileId=
-CCTV5,http://120.196.232.24:8088/000000001001PLTV/651/224/3221227604/1.m3u8?HlsProfileId=
-CCTV5,http://120.196.232.31:8088/000000001001PLTV/651/224/3221227604/1.m3u8?HlsProfileId=
-CCTV5+,http://120.196.232.15:8088/000000001001PLTV/651/224/3221227567/1.m3u8?HlsProfileId=
-CCTV5+,http://120.196.232.51:8088/000000001001PLTV/651/224/3221227567/1.m3u8?HlsProfileId=
-CCTV6,http://120.196.232.17:8088/000000001001PLTV/651/224/3221227606/1.m3u8?HlsProfileId=
-CCTV6,http://120.196.232.26:8088/000000001001PLTV/651/224/3221227606/1.m3u8?HlsProfileId=
-CCTV7,http://120.196.232.31:8088/000000001001PLTV/651/224/3221227648/1.m3u8?HlsProfileId=
-CCTV7,http://120.196.232.33:8088/000000001001PLTV/651/224/3221227648/1.m3u8?HlsProfileId=
-CCTV8,http://120.196.232.18:8088/000000001001PLTV/651/224/3221227571/1.m3u8?HlsProfileId=
-CCTV8,http://120.196.232.40:8088/000000001001PLTV/651/224/3221227571/1.m3u8?HlsProfileId=
-CCTV9,http://120.196.232.19:8088/000000001001PLTV/651/224/3221227565/1.m3u8?HlsProfileId=
-CCTV9,http://120.196.232.36:8088/000000001001PLTV/651/224/3221227570/1.m3u8?HlsProfileId=
-CCTV10,http://120.196.232.27:8088/000000001001PLTV/651/224/3221227559/1.m3u8?HlsProfileId=
-CCTV10,http://120.196.232.49:8088/000000001001PLTV/651/224/3221227559/1.m3u8?HlsProfileId=
-CCTV11,http://120.196.232.17:8088/000000001001PLTV/651/224/3221227596/1.m3u8?HlsProfileId=
-CCTV11,http://120.196.232.55:8088/000000001001PLTV/651/224/3221227596/1.m3u8?HlsProfileId=
-CCTV12,http://120.196.232.57:8088/000000001001PLTV/651/224/3221227560/1.m3u8?HlsProfileId=
-CCTV12,http://120.196.232.43:8088/000000001001PLTV/651/224/3221227562/1.m3u8?HlsProfileId=
-CCTV13,http://120.196.232.21:8088/000000001001PLTV/651/224/3221227598/1.m3u8?HlsProfileId=
-CCTV13,http://120.196.232.22:8088/000000001001PLTV/651/224/3221227598/1.m3u8?HlsProfileId=
-CCTV14,http://120.196.232.27:8088/000000001001PLTV/651/224/3221227535/1.m3u8?HlsProfileId=
-CCTV14,http://120.196.232.42:8088/000000001001PLTV/651/224/3221227564/1.m3u8?HlsProfileId=
-CCTV15,http://120.196.232.37:8088/000000001001PLTV/651/224/3221227593/1.m3u8?HlsProfileId=
-CCTV15,http://120.196.232.38:8088/000000001001PLTV/651/224/3221227593/1.m3u8?HlsProfileId=
-CCTV16,http://120.196.232.29:8088/000000001001PLTV/651/224/3221227840/1.m3u8?HlsProfileId=
-CCTV16,http://120.196.232.45:8088/000000001001PLTV/651/224/3221227840/1.m3u8?HlsProfileId=
-CCTV17,http://120.196.232.58:8088/000000001001PLTV/651/224/3221227566/1.m3u8?HlsProfileId=
-CCTV17,http://120.196.232.20:8088/000000001001PLTV/651/224/3221227568/1.m3u8?HlsProfileId=
+
+
+CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+CCTV1,http://ddns.267565.xyz:8888/udp/238.1.78.166:7200
+CCTV2,http://ddns.267565.xyz:8888/udp/238.1.78.235:7752
+CCTV3,http://ddns.267565.xyz:8888/udp/238.1.78.170:7232
+CCTV4,http://ddns.267565.xyz:8888/udp/238.1.78.236:7760
+CCTV5,http://ddns.267565.xyz:8888/udp/238.1.78.171:7240
+CCTV5+,http://ddns.267565.xyz:8888/udp/238.1.78.237:7768
+CCTV6,http://ddns.267565.xyz:8888/udp/238.1.78.172:7248
+CCTV7,http://ddns.267565.xyz:8888/udp/238.1.78.239:7784
+CCTV8,http://ddns.267565.xyz:8888/udp/238.1.78.173:7256
+CCTV9,http://ddns.267565.xyz:8888/udp/238.1.78.240:7792
+CCTV10,http://ddns.267565.xyz:8888/udp/238.1.78.241:7800
+CCTV11,http://ddns.267565.xyz:8888/udp/238.1.78.206:7502
+CCTV12,http://ddns.267565.xyz:8888/udp/238.1.78.242:7808
+CCTV13,http://ddns.267565.xyz:8888/udp/238.1.79.35:4392
+CCTV14,http://ddns.267565.xyz:8888/udp/238.1.78.243:7816
+CCTV15,http://ddns.267565.xyz:8888/udp/238.1.78.222:7648
+CCTV16,http://ddns.267565.xyz:8888/udp/238.1.79.10:4192
+CCTV17,http://ddns.267565.xyz:8888/udp/238.1.78.178:7296
+
 
 NewTV农业致富,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8$黑龙江4M1080
 NewTV欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8$黑龙江4M1080
