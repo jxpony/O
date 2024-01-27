@@ -643,12 +643,12 @@ CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
 
-CHC家庭影院-HD,http://wsd.saj-web.top:4000/udp/225.1.1.213:5002
-CHC高清电影-HD,http://wsd.saj-web.top:4000/udp/225.1.1.214:5002
-CHC动作电影-HD,http://wsd.saj-web.top:4000/udp/225.1.1.215:5002
-CHC动作电影-HD,http://j4125.hanzy888.top:8899/udp/239.33.2.207:22070
-CHC高清电影-HD,http://j4125.hanzy888.top:8899/udp/239.33.2.209:22090
-CHC家庭影院-HD,http://j4125.hanzy888.top:8899/udp/239.33.2.210:22100
+CHC家庭影院,http://wsd.saj-web.top:4000/udp/225.1.1.213:5002
+CHC高清电影,http://wsd.saj-web.top:4000/udp/225.1.1.214:5002
+CHC动作电影,http://wsd.saj-web.top:4000/udp/225.1.1.215:5002
+CHC动作电影,http://j4125.hanzy888.top:8899/udp/239.33.2.207:22070
+CHC高清电影,http://j4125.hanzy888.top:8899/udp/239.33.2.209:22090
+CHC家庭影院,http://j4125.hanzy888.top:8899/udp/239.33.2.210:22100
 CHC家庭影院,http://host.gaoxincloud.cn:4000/udp/239.112.205.205:5140
 CHC高清电影,http://host.gaoxincloud.cn:4000/udp/239.112.205.206:5140
 CHC动作电影,http://host.gaoxincloud.cn:4000/udp/239.112.205.207:5140
